@@ -57,10 +57,10 @@ Website redesign developed by Jodine Lemena.
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/Screenshot(638).png)
+![Home Page](assets/Home.png)
 
 ### About Page
-![About Page](assets/Screenshot(631).png)
+![About Page](assets/About.png)
 
 ### Contact Page
-![Contact Page](assets/Screenshot(633).png)
+![Contact Page](assets/Contact.png)
